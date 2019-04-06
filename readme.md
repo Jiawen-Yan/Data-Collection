@@ -19,12 +19,14 @@
 
 2. CCTV Dataset (Demo)
 -------
+
 	* CCTV news transcript from 2009;
 	* ![Sample Data](CCTV/screenshot.png)
 
 
 3. Eastmoney Dataset (Demo)
 -------
+
 	* Data are collect from Eastmoney.com or Guba up to mid 2018;
 	* Four sections including news, notice, analyst report, blog and reply;
 	* ![Sample Data](Eastmoney/screenshot.png)
@@ -32,12 +34,14 @@
 
 4. JD Comment Dataset (Demo)
 -------
+
 	* JD Product Review Dataset
 	* ![Sample Data](JD/screenshot.png)
 
 
 5. China-Financial-Market (Demo)
 -------
+
 	* Listed Company's Notice Dataset
 		* Meta file of all listed company's notice
 		* ![Sample Data](China-Financial-Market/Notice/screenshot.png)
