@@ -12,44 +12,41 @@
 *If you are interested in getting full data, please feel free to contact me at yjw9100@hotmail.com. FYI: those datasets are available for research purpose only*
 
 
-Analyst Report Dataset (Demo) 1
-===
+#### 1. Analyst Report Dataset (Demo)
 
 * Over 1 million detailed analyst report datasets from Tencent Finance during 2006 to 2018;
 * Structured data including stock code, date, analyst name, affiliated brokerage, and textual report;
 * ![Sample Data](AnalystReport/screenshot.png)
 
 
-CCTV Dataset (Demo) 2
-===
+#### 2. CCTV Dataset (Demo)
+
 * CCTV news transcript from 2009;
 * ![Sample Data](CCTV/screenshot.png)
 
 
-Eastmoney Dataset (Demo) 3
-=== 
-
+#### 3. Eastmoney Dataset (Demo)
+ 
 * Data are collect from Eastmoney.com or Guba up to mid 2018;
 * Four sections including news, notice, analyst report, blog and reply;
 * ![Sample Data](Eastmoney/screenshot.png)
 
 
-JD Comment Dataset (Demo) 4
-===
+#### 4. JD Comment Dataset (Demo)
 
 * JD Product Review Dataset
 * ![Sample Data](JD/screenshot.png)
 
 
-China-Financial-Market (Demo) 5
-===
+#### 5. China-Financial-Market (Demo)
+##### 5.1 Listed Company's Notice Dataset
 
-* Listed Company's Notice Dataset
-	* Meta file of all listed company's notice
-	* ![Sample Data](China-Financial-Market/Notice/screenshot.png)
-* Site-Visit Dataset
-	* Site-visitation record of all buyside and sellside analysts
-	* ![Sample Data](China-Financial-Market/Site-Visit/screenshot.png)
+* Meta file of all listed company's notice
+* ![Sample Data](China-Financial-Market/Notice/screenshot.png)
+
+##### 5.2 Site-Visit Dataset
+* Site-visitation record of all buyside and sellside analysts
+* ![Sample Data](China-Financial-Market/Site-Visit/screenshot.png)
 
 
 
