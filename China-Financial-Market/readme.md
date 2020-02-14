@@ -1,11 +1,15 @@
-## Sample Datasets
+## China Financial Market Datasets - 中国金融市场相关数据集
 
 #### Author: Jiawen Yan
 #### Email: yjw9100@hotmail.com
 #### Last Update: 2019.4.4
 
+> :thumbsup: **_If you want to support or use the full dataset(s) for academic purpose, please contact me through the abovementioned email._**
 
-##### 5 Site-Visit Dataset
+---
+
+#### （1）Site-Visit Dataset -分析师实地调研数据集
+
 * Site-visitation record of all buyside and sellside analysts
 * ![Sample Data](China-Financial-Market/Site-Visit/screenshot.png)
 
@@ -30,6 +34,33 @@
  - `personnel` : name of visitor
  - `licostaff` : staff name holding the site visit 
  - `maincontent`: main site visit content 
+
+---
+
+#### （2） Listed Companies' Notice Dataset - 中国上市公司公告数据集
+
+##### Variables Definition:
+
+> NB: Many variables are *None* because the official website  does not provide such content but have such columns. Here, I kept the original format in max extent in case some of them are not None 
+
+* `SecCode`: security trading code at exchange (6-digits)
+* `announcementId`: notice announcement ID 
+* `announcementContent`: *None* (content is not in this variable)
+* `accouncementTitle`: notice announcement title 
+* `associateAnnouncement`: announcement id if related to another announcement, else is None
+* `id`: *None*
+* `pageColumn`: *None* 
+* `important`: *None*
+* `accouncementType`: *None*
+* `orgID`: organization ID 
+* `batchNum`: *None*
+* `adjunctsize`:  file size of related report
+* `secName`: name of trading security, four chinese characters
+* `adjunctUrl`: the URL of related announcement file 
+* `adjunctType`: the file type related announcement
+* `announcementTime`: the unix time of announcement time
+* `storageTime`: *None*
+* `announcementTypeName`: *None*
 
 
 
