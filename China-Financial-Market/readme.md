@@ -67,11 +67,16 @@
 #### （3）Analyst Profile - 中国卖方分析师简历数据
 
 * Detailed analyst profile data public available at https://www.sac.net.cn
+
 * Analyst General Information Data
+
 * Analyst Educational Backgroudn Data
+
 * Analyst Working Experience Data 
+
 * Analyst Test Score Data 
-* * ![Sample Data Screenshot](AnalystProfile/Picture1.png)
+
+  ![Sample Data Screenshot](AnalystProfile/Picture1.png)
 
 
 
