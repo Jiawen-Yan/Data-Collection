@@ -2,7 +2,7 @@
 
 #### Author: Jiawen Yan
 #### Email: yjw9100@hotmail.com
-#### Last Update: 2019.4.4
+#### Last Update: 2020.5.1
 
 > :thumbsup: **_If you want to support or use the full dataset(s) for academic purpose, please contact me through the abovementioned email._**
 
@@ -64,7 +64,14 @@
 
 
 
+#### （3）Analyst Profile - 中国卖方分析师简历数据
 
+* Detailed analyst profile data public available at https://www.sac.net.cn
+* Analyst General Information Data
+* Analyst Educational Backgroudn Data
+* Analyst Working Experience Data 
+* Analyst Test Score Data 
+* * ![Sample Data Screenshot](AnalystProfile/Picture1.png)
 
 
 
